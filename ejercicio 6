@@ -1,1 +1,7 @@
-
+Solicitamos un carácter al usuario.
+Convierte el carácter a su valor ASCII usando casting (int)char.ToUpper(c)
+Usa rangos ASCII para clasificar:
+48–57 → dígitos del 0 al 9
+65–90 → letras de la A a la Z (en mayúsculas)
+Otros valores → símbolos
+Aplica estructura if-else if-else para la clasificación
