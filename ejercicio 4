@@ -1,1 +1,4 @@
-
+Se transforma la palabra "Bienvenido " en un arreglo llamado s.
+El usuario escribe su nombre y a este lo llamamos n.
+El arreglo s se amplía para que pueda contener también los caracteres del nombre, usando Array.Resize.
+Finalmente, se añaden, uno por uno, los caracteres de n al final de s.
