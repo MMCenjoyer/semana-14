@@ -1,1 +1,10 @@
+La frase escrita por el usuario se convierte en un arreglo de caracteres.
+Se recorre el arreglo utilizando un ciclo for.
+Cada letra se convierte a mayúscula con ToUpper() para que se pueda simplificar la comparación.
+Mediante un switch, se incrementa el contador correspondiente si el carácter es una vocal:
 
+A → cont_a
+E → cont_e
+I → cont_i
+O → cont_o
+U → cont_u
