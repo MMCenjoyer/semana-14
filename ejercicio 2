@@ -1,1 +1,9 @@
+podemos hacer un arreglo de caracteres en 3 formas:
 
+Inicialización directa:
+char[] a1 = { 'a', 'b', 'c' };
+Usando new y añadiendo valores
+char[] a2 = new char[] { 'a', 'b', 'c' };
+Asignación manual por indices
+char[] a3 = new char[3];
+a3[0]='a'; a3[1]='b'; a3[2]='c';.
