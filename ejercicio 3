@@ -1,1 +1,4 @@
-
+Primero Se pide un mensaje para la consola.
+Luego el mensaje se convierte a array con ToCharArray().
+Este recorre el array con un bucle for usando el índice desde 0 hasta un cierto limite
+Muestra cada carácter individualmente entre corchetes
