@@ -1,1 +1,6 @@
-
+Divide el problema en funciones especializadas:
+ingreso(): pide al usuario el tamaño del arreglo y llena sus valores.
+invertir(int[]):  Usa un algoritmo de inversión in-place usando variable temporal
+imprimir(int[]): recorre e imprime cada elemento del arreglo que este formateado
+Demuestra paso de arrays como parámetros y retorno desde funciones
+Muestra que los arrays se pasan por referencia (los cambios se mantienen)
