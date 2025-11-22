@@ -2,3 +2,4 @@ Aplica  mismo principio del Ejemplo 7 pero con arrays de caracteres
 Implementa un algoritmo de inversión intercambiando caracteres simétricos   // pvz reference
 Usa la división entera (size / 2) para optimizar el proceso
 Se combina la entrada, procesamiento y salida en funciones separadas y luego lo imprimimos.
+
